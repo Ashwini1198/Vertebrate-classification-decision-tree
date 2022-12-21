@@ -1,1 +1,1 @@
-# Mammala-Decision-Tree
+# Mamals-Decision-Tree
